@@ -8,3 +8,6 @@ Repositorio de la clase Desarrollo de aplicaciones avanzadas de ciencias computa
     
 ### imagenes.zip
     Zip que contiene las imagenes de Coca Cola vs Pepsi, divididas en training y test
+
+### Link al data set utilizado
+https://www.kaggle.com/datasets/die9origephit/pepsi-and-cocacola-images
