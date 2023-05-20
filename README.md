@@ -7,5 +7,4 @@ Repositorio de la clase Desarrollo de aplicaciones avanzadas de ciencias computa
     Notebook con el código necesario para hacer un procesado de las imagenes.
     
 ### imagenes.zip
-    Zip que contiene las imagenes de Coca Cola vs Pepsi, divididas 
-    en training y test
+    Zip que contiene las imagenes de Coca Cola vs Pepsi, divididas en training y test
